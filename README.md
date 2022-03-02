@@ -19,7 +19,7 @@ Run composer install command:
 
 Run this comamnd for get docker containers:
 
-    run run.sh
+    sh run.sh
 
 
 <br><br>
